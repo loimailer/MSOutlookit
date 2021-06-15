@@ -853,6 +853,12 @@ $(document).ready(function() {
   makeFolder('funny');
   makeFolder('iama');
   makeFolder('wtf');
+  makeFolder('Genshin_Memepact');
+  makeFolder('Genshin_Impact');
+  makeFolder('gifs');
+  makeFolder('goodanimemes');
+  makeFolder('animemes');
+  makeFolder('awwwnime');
   $('#folder_FrontPage').parent().addClass('foldwraphi');
   folderClick('folder_FrontPage');
   $('.outlookmin').click(function() {
