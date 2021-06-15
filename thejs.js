@@ -858,7 +858,7 @@ $(document).ready(function() {
   makeFolder('gifs');
   makeFolder('goodanimemes');
   makeFolder('animemes');
-  makeFolder('awwwnime');
+  makeFolder('awwnime');
   $('#folder_FrontPage').parent().addClass('foldwraphi');
   folderClick('folder_FrontPage');
   $('.outlookmin').click(function() {
